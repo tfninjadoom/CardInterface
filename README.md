@@ -1,2 +1,2 @@
 # CardInterface
-Card game interface for custom games using Pygame as a hobby project
+Card game interface for custom games using Pygame as a hobby project.  
